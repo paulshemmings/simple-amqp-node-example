@@ -1,0 +1,14 @@
+{
+    "name": "simple-aqmp-client",
+    "description": "publish and consume messages routed via rabbitMQ",
+    "version": "1.0.0",
+    "private": false,
+    "author": "Paul Hemmings",
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.2.x"
+    },
+    "dependencies": {
+        "amqp": "0.2.0"
+    }
+}
